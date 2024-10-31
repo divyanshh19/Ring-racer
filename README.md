@@ -1,2 +1,2 @@
-# Ring-racer
-sonic rumper is game developed by using javascript with library kaplay.
+# Ringring racer
+Ring racer is game developed by using javascript with library kaplay.
